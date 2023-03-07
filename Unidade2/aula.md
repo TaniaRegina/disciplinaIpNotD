@@ -99,7 +99,7 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 
 ![Formulário de estruturação de algoritmos](imgs/formularioDois.png "Formulário completo de estruturação de algoritmos")  
 
-## Algoritmos para práticar  
+## Algoritmos para praticar  
 
 ### Problema 1 (Uni3Uri1002)  
 
