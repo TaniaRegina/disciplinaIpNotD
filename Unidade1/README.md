@@ -56,7 +56,7 @@ Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")
 
 #### Imagem do Ciclo de Vida de um Software
 
-![Imagem do Clico de Vida de um Software](imgs/CicloVida.png "Imagem do Ciclo de Vida de um Software")  
+![Imagem do Ciclo de Vida de um Software](imgs/CicloVida.png "Imagem do Ciclo de Vida de um Software")  
 
 ### Métodos de Especificação de Problemas
 
