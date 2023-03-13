@@ -112,7 +112,7 @@ Fontes: [src](Unidade3/src "src")
   
 ### [Aula_08](Unidade3/aula.md#Aula_08 " 13-03-2023 segunda-feira ") 13-03-2023 segunda-feira
 - demonstração de exemplos: Java e VSCode;    
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
+- listas de exercícios: [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 <!-- [ ] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->  
   
 ### [Aula_09](Unidade3/aula.md#Aula_09 " 16-03-2023 quinta-feira ") 16-03-2023 quinta-feira
