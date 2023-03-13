@@ -111,13 +111,12 @@ Fontes: [src](Unidade3/src "src")
 - demonstração de exemplos: Java e VSCode.  
   
 ### [Aula_08](Unidade3/aula.md#Aula_08 " 13-03-2023 segunda-feira ") 13-03-2023 segunda-feira
-  
-- algoritmos do URI (apresentar o URI, tem de ser **exato** …);  
+- demonstração de exemplos: Java e VSCode;    
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 <!-- [ ] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->  
   
 ### [Aula_09](Unidade3/aula.md#Aula_09 " 16-03-2023 quinta-feira ") 16-03-2023 quinta-feira
-  
+- algoritmos do URI (apresentar o URI, tem de ser **exato** …);   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 <!-- [ ] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->  
