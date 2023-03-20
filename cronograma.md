@@ -131,13 +131,13 @@ Fontes: [src](Unidade3/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 <!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->  
-- **liberar material** da próxima unidade (4).  
-<!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
   
 ### [Aula_12](Unidade3/aula.md#Aula_12 " 23-03-2023 quinta-feira ") 23-03-2023 quinta-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
+- **liberar material** da próxima unidade (4).  
+<!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
   
 ### [Unidade3-Atividades](Unidade3 "Unidade3-Atividades") Prazo:  26-03-2023 domingo
   
