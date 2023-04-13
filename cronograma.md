@@ -205,7 +205,7 @@ Fontes: [src](Unidade4/src "src")
   
 - listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
   
-### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo:  16-04-2023 domingo
+### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo:  23-04-2023 domingo
   
 - [atividadeUri](Unidade4/atividadeUri.md "atividadeUri");  
 - [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
@@ -215,21 +215,21 @@ Fontes: [src](Unidade4/src "src")
   
 ## [Prova1](Prova1 "Prova1")  
   
-### [Aula_22](Unidade4/aula.md#Aula_22 " 17-04-2023 segunda-feira ") 17-04-2023 segunda-feira
+### [Aula_22](Unidade4/aula.md#Aula_22 " 24-04-2023 segunda-feira ") 20-04-2023 segunda-feira
   
 - revisão Prova1  
-- Prova1
+
 <!-- [ ] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-80606270> -->  
   
-### [Aula_23](Unidade4/aula.md#Aula_23 " 17-04-2023 segunda-feira ") 17-04-2023 segunda-feira
+### [Aula_23](Unidade4/aula.md#Aula_23 " 24-04-2023 segunda-feira ") 24-04-2023 segunda-feira
   
 - Prova1  
 <!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
   
-<!--### [Aula_24](Unidade4/aula.md#Aula_24 " 20-04-2023 quinta-feira ") 20-04-2023 quinta-feira
+### [Aula_24](Unidade4/aula.md#Aula_24 " 24-04-2023 quinta-feira ") 24-04-2023 quinta-feira
   
 - Prova1  
--->
+
 <!-- - Prova 1 - parta B: [entrega](<@@@@> "entrega") no URI -->  
   
 ### [Aula_25](Unidade5/aula.md#Aula_25 " 20-04-2023 quinta-feira ") 20-04-2023 quinta-feira
