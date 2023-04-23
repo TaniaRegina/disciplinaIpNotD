@@ -215,7 +215,7 @@ Fontes: [src](Unidade4/src "src")
   
 ## [Prova1](Prova1 "Prova1")  
   
-### [Aula_22](Unidade4/aula.md#Aula_22 " 24-04-2023 segunda-feira ") 20-04-2023 segunda-feira
+### [Aula_22](Unidade4/aula.md#Aula_22 " 20-04-2023 segunda-feira ") 20-04-2023 quinta-feira
   
 - revisão Prova1  
 
@@ -226,19 +226,19 @@ Fontes: [src](Unidade4/src "src")
 - Prova1  
 <!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
   
-### [Aula_24](Unidade4/aula.md#Aula_24 " 24-04-2023 quinta-feira ") 24-04-2023 quinta-feira
+### [Aula_24](Unidade4/aula.md#Aula_24 " 24-04-2023 segunda-feira ") 24-04-2023 segunda-feira
   
 - Prova1  
 
 <!-- - Prova 1 - parta B: [entrega](<@@@@> "entrega") no URI -->  
   
-### [Aula_25](Unidade5/aula.md#Aula_25 " 20-04-2023 quinta-feira ") 20-04-2023 quinta-feira
+### [Aula_25](Unidade5/aula.md#Aula_25 " 27-04-2023 quinta-feira ") 27-04-2023 quinta-feira
   
 - correção Prova1  
 - **liberar material** da próxima unidade (5).  
 <!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->  
   
-### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo:  23-04-2023 domingo
+### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo:  30-04-2023 domingo
   
 - assistir as videoaulas da Unidade5;  
 - responder o [Unidade5_Questionário].  
